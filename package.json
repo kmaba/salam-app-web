@@ -13,7 +13,7 @@
     "start": "astro dev"
   },
   "lint-staged": {
-    "**/*": "pnpm format"
+    "**/*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
     "astro-icon": "^0.7.3"
