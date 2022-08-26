@@ -1,0 +1,40 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": [
+    "hardcore",
+    "hardcore/jest",
+    "hardcore/fp",
+    "hardcore/ts",
+    "plugin:astro/recommended"
+  ],
+  "ignorePatterns": ["*.config.mjs", "*.prettierrc.js"],
+  "overrides": [
+    {
+      // Define the configuration for `.astro` file.
+      "files": ["*.astro"],
+      // Allows Astro components to be parsed.
+      "parser": "astro-eslint-parser",
+      // Parse the script in `.astro` as TypeScript by adding the following configuration.
+      // It's the setting you need when using TypeScript.
+      "parserOptions": {
+        "extraFileExtensions": [".astro"],
+        "parser": "@typescript-eslint/parser"
+      },
+      "rules": {
+        // override/add rules settings here, such as:
+        // "astro/no-set-html-directive": "error"
+      }
+    }
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "plugins": ["jsx-a11y"],
+  "rules": {
+    "import/exports-last": "off",
+    "prettier/prettier": "off",
+    "react/jsx-filename-extension": "off"
+  }
+}

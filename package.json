@@ -1,0 +1,41 @@
+{
+  "name": "@salam/web",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "astro": "astro",
+    "build": "astro build",
+    "dev": "astro dev",
+    "format": "prettier --write .",
+    "lint": "eslint --ext .jsx,.js,.ts,.tsx,.astro",
+    "prepare": "husky install",
+    "preview": "astro preview",
+    "start": "astro dev"
+  },
+  "lint-staged": {
+    "**/*": "pnpm format"
+  },
+  "dependencies": {
+    "astro-icon": "^0.7.3"
+  },
+  "devDependencies": {
+    "@astrojs/image": "^0.3.6",
+    "@astrojs/sitemap": "^1.0.0",
+    "@astrojs/solid-js": "^1.0.0",
+    "@astrojs/tailwind": "^1.0.0",
+    "@typescript-eslint/parser": "^5.35.1",
+    "astro": "^1.0.9",
+    "astro-compress": "^1.0.5",
+    "dprint": "^0.30.3",
+    "eslint": "^8.22.0",
+    "eslint-config-hardcore": "^24.13.1",
+    "eslint-plugin-astro": "^0.17.1",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "^2.7.1",
+    "prettier-plugin-astro": "^0.5.3",
+    "solid-js": "^1.5.1"
+  },
+  "packageManager": "pnpm@7.9.5"
+}
