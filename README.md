@@ -4,7 +4,7 @@ This is a beta website. The outcome of this will result in [salamlabs.io](https:
 
 [Open in Gitpod](https://gitpod.io#https://github.com/Salam-Labs/salam-app-web)
 
-[Open in Vxcode.dev](https://github.dev/Salam-Labs/salam-app-web)
+[Open in Vscode.dev](https://github.dev/Salam-Labs/salam-app-web)
 
  
 ## 🚀 Project Structure
