@@ -1,8 +1,10 @@
 # Welcome to [Salam Labs (beta)](https://https://starlit-dusk-920033.netlify.app/)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics) 
+This is a beta website. The outcome of this will result in [salamlabs.io](https://salamlabs.io)
 
 [Open in Gitpod](https://gitpod.io#https://github.com/Salam-Labs/salam-app-web)
+
+[Open in Vxcode.dev](https://github.dev/Salam-Labs/salam-app-web)
 
  
 ## 🚀 Project Structure
