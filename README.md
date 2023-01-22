@@ -4,7 +4,7 @@ This is a beta website. The outcome of this will result in [salamlabs.io](https:
 
 [Open in Gitpod](https://gitpod.io#https://github.com/dolosarafat/salam-app-web) 🥶❄️👌
 
-Press the period button on your keyboard to open it on (github.dev)[https://github.dev] 🤮🤢 but I have no idea why we would choose that over gitpod
+Press the period button on your keyboard to open it on [github.dev](https://github.dev) 🤮🤢 but I have no idea why we would choose that over gitpod
 
 
 Astro things
