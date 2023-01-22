@@ -2,11 +2,14 @@
 
 This is a beta website. The outcome of this will result in [salamlabs.io](https://salamlabs.io)
 
-[Open in Gitpod](https://gitpod.io#https://github.com/Salam-Labs/salam-app-web)
+[Open in Gitpod](https://gitpod.io#https://github.com/dolosarafat/salam-app-web) 🥶❄️👌
 
-[Open in Vscode.dev](https://github.dev/Salam-Labs/salam-app-web)
+Press the period button on your keyboard to open it on (github.dev)[https://github.dev] 🤮🤢 but I have no idea why we would choose that over gitpod
 
- 
+
+Astro things
+
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
